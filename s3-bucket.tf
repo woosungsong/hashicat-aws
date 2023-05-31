@@ -1,4 +1,4 @@
 module "s3-bucket" {
   source  = "app.terraform.io/ntelsman99/s3-bucket/aws"
-  version = "2.8.0"
+  version = "2.0.1"
 }
